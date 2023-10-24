@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: wik-dps-tp04-2
+  labels:
+    app : wik-dps-tp04-2
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      app: wik-dps-tp04-2
+  template:
+    metadata:
+      labels:
+        app: wik-dps-tp04-2
+    spec:
+      containers:
+      - name: wik-dps-tp04-2
+        image: registry.cluster.wik.cloud/public/echo
+        ports:
+        - containerPort: 80
+        env:
+        - name: PING_LISTEN_PORT 
+          value : "80"
