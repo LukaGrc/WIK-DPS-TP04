@@ -1,11 +1,11 @@
 # MODULE - DevOps : WIK-DPS-TP04
 
 - [Étape 1](#étape-1)
-    - [🎯 Objectifs](#🎯-objectifs-step-1)
-    - [🚶 Étapes à suivre](#🚶-étapes-à-suivre-step-1)
-    - [💻 Commandes notables](#💻-commandes-notables-step-1)
+    - [🎯 Objectifs](#-objectifs-step-1)
+    - [🚶 Étapes à suivre](#-étapes-à-suivre-step-1)
+    - [💻 Commandes notables](#-commandes-notables-step-1)
 - [Étape 2](#étape-2)
-    - [🎯 Objectifs](#🎯-objectifs-step-2)
+    - [🎯 Objectifs](#-objectifs-step-2)
 
 ## Étape 1
 
